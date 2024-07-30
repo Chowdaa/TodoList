@@ -12,7 +12,6 @@ This is a frontend Todo List application built with Next.js as part of an assess
 
 ## Technologies Used
 
-- Next.js
 - React
 - Tailwind CSS
 - JSON Server (for dummy data)
