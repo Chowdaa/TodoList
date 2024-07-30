@@ -1,0 +1,36 @@
+.task-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .task-item {
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s ease;
+  }
+  
+  .task-item.completed {
+    background: #d4edda;
+  }
+  
+  .task-actions {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .task-actions button {
+    background: #6c757d;
+  }
+  
+  .task-actions button:hover {
+    background: #5a6268;
+  }
+  
+  /* Highlighting search terms */
+  .highlight {
+    background-color: yellow;
+  }
+  
