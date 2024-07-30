@@ -41,7 +41,6 @@ The project is organized as follows:
 
 ## Implementation Details
 
-- The application uses Next.js for server-side rendering and routing.
 - State management is handled using React's useState and useEffect hooks.
 - Tailwind CSS is used for styling, ensuring a responsive and clean design.
 - A dummy JSON server is used to simulate backend data storage.
